@@ -1,0 +1,20 @@
+# Blockchain
+
+Blockchain is a revolutionary technology that enables secure, transparent, and decentralized transactions without intermediaries. However, blockchain is not a monolithic system but rather a complex architecture composed of different layers, each with its own role and function. Understanding these layers is essential for anyone who wants to learn more about blockchain or develop applications on it.
+
+The concept of blockchain was introduced in 2008 with Bitcoin - the first cryptocurrency that operates on a blockchain network. However, blockchain technology extends far beyond just enabling digital currencies. At its core, it allows parties who may not fully trust each other to reach consensus and make exchanges without needing a central authority. This opens up possibilities for transforming processes in finance, supply chain, voting, real estate, healthcare and more.
+
+Some key attributes of blockchain technology include decentralization, transparency, immutability and security. The data on a blockchain is not stored on a central server but is maintained and updated independently by a distributed network of computers. Every transaction is visible to all participants and once data is added, it cannot be altered retroactively. Advanced cryptography ensures the network is highly secure and resistant to tampering.
+
+## Blockchain Layers
+
+Blockchain is composed of different layers that enable it to function efficiently as a distributed ledger.
+
+The most common way to categorize blockchain layers is as follows:
+
+* **Layer 0 - The Infrastructure Layer:** This is the lowest layer of the blockchain architecture, which provides the physical and logical resources for the network, such as hardware, software, protocols, and standards. Layer 0 is responsible for ensuring the connectivity, availability, and security of the network nodes, which are the devices that store and process the blockchain data. Examples of layer 0 technologies include TCP/IP, Ethernet, Wi-Fi, Bluetooth, etc.
+* **Layer 1 - The Data Layer:** This is the layer where the blockchain data is stored and structured. The data layer consists of blocks, which are collections of transactions that are cryptographically linked and verified by the network nodes. The data layer defines the rules and formats for creating, validating, and appending blocks to the blockchain, as well as the data model and schema for the transactions. Examples of layer 1 technologies include Bitcoin, Ethereum, Hyperledger Fabric, etc.
+* **Layer 2 - The Network Layer:** This is the layer where the blockchain data is distributed and synchronized among the network nodes. The network layer implements the consensus mechanism, which is the algorithm that ensures that all nodes agree on the state and validity of the blockchain. The network layer also handles the communication, coordination, and fault tolerance of the network nodes. Examples of layer 2 technologies include Proof of Work, Proof of Stake, Byzantine Fault Tolerance, etc.
+* **Layer 3 - The Application Layer:** This is the highest layer of the blockchain architecture, which hosts the applications that interact with the blockchain. The application layer provides the interfaces and functionalities for users and developers to access and use the blockchain data and services. The application layer also supports the development and execution of smart contracts, which are self-enforcing agreements that run on the blockchain. Examples of layer 3 technologies include Decentralized Applications, Smart Contracts, Web3, etc.
+
+By separating the blockchain system into different layers, the blockchain architecture allows for modularity, flexibility, and scalability. Each layer can be optimized and customized according to the specific needs and preferences of the users and developers, while maintaining the compatibility and interoperability with the other layers. Moreover, each layer can be enhanced and upgraded without affecting the functionality and security of the whole system. Blockchain layers are thus the building blocks of a robust, efficient, and innovative blockchain ecosystem.

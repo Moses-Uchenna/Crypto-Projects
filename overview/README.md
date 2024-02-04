@@ -1,0 +1,19 @@
+# 🔭 Overview
+
+## Introduction
+
+Blockchain technology has revolutionized the world of finance, enabling new forms of value exchange, governance, and innovation. However, many existing blockchains face challenges such as limited scalability, high costs, and environmental impact. To address these issues, a new generation of blockchain platforms has emerged, offering superior performance, interoperability, and sustainability. One such platform is Coreum, a layer-1 enterprise-grade blockchain that serves as a core infrastructure for decentralized applications.
+
+[Coreum](https://www.coreum.com/) is designed to meet the needs of large-scale organizations that require high throughput, low fees, and global compatibility. Coreum supports **ISO20022**, the international standard for financial messaging, as well as IBC, the inter-blockchain communication protocol. Coreum also introduces novel [Smart Tokens](https://www.coreum.com/smart-tokens), which are programmable assets that can represent any form of value, such as stocks, bonds, commodities, or currencies.
+
+Coreum's native token is **$CORE**, which is used for various purposes on the network, such as securing the network, paying for transactions, and accessing the decentralized exchange. **$CORE** holders can also participate in the governance of the network, voting on proposals and upgrades. One of the most prominent use cases for Coreum is the [Sologenic Ecosystem](https://www.sologenic.com/), which leverages Coreum's Smart Tokens to tokenize and trade real-world assets, such as stocks and ETFs, on the XRP Ledger.
+
+Coreum is not only fast and efficient but also environmentally friendly. Coreum uses a Bonded Proof of Stake (BPoS) consensus mechanism, which requires minimal energy consumption and reduces the carbon footprint. Coreum also boasts high scalability and throughput, capable of processing thousands of transactions per second while maintaining low and predictable fees. Coreum is thus a leading blockchain platform that enables a more sustainable, inclusive, and innovative future for decentralized applications.
+
+## Abstract
+
+Coreum stands as a pioneering third-generation layer-1 blockchain platform, poised to revolutionize the landscape of decentralized applications **(DApps)** and decentralized finance **(DeFi)** protocols. At its core, Coreum strives to deliver a comprehensive solution characterized by speed, scalability, interoperability, and sustainability. Anchored in its commitment to international standards, Coreum embraces **ISO20022** for financial messaging and integrates the Inter-Blockchain Communication **(IBC)** protocol. Notably, Coreum introduces the concept of Smart Tokens, programmable assets with the flexibility to represent various forms of value.
+
+The native token of Coreum, **$CORE**, plays a multifaceted role within the network, serving purposes such as securing the infrastructure, facilitating transactions, accessing the decentralized exchange, and participating in governance decisions. Coreum adopts a Bonded Proof of Stake **(BPoS)** consensus mechanism, not only minimizing energy consumption but also actively contributing to a reduced carbon footprint.
+
+What sets Coreum apart is its remarkable throughput, capable of handling up to 7,000 transactions per second, all while maintaining low and predictable transaction fees. This robust performance is a testament to Coreum's enterprise-grade capabilities, positioning it as a platform ready to usher in a more inclusive, innovative, and sustainable future for decentralized applications. By combining cutting-edge technology with a commitment to environmental responsibility, Coreum emerges as a key player in the ongoing evolution of blockchain solutions, promising a transformative impact on the decentralized landscape.
